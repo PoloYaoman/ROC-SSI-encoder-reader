@@ -1,3 +1,15 @@
+//----------------------------------------------------------//
+//                                                          //
+//  Analog SSI encoder reader for ESP32                     //
+//                                                          //
+//  Special thanks to Exventys for allowing to share this   //
+//  https://exventys.com/                                   //
+//                                                          //
+//  olga.shlykova@exventys.com                              //
+//                                                          //
+//----------------------------------------------------------//
+
+
 #include <stdio.h>
 #include "esp_log.h"
 #include "driver/gpio.h"
